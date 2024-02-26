@@ -1,3 +1,4 @@
+// A resizable, generic set container class
 class Set <E>{
 	
     Set(int capacity) {
